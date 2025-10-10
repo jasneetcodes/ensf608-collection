@@ -3,7 +3,7 @@
 
 ## Relationships
 
-Define the connections between entities
+Defines the connections between entities
 
 Represented as a diamon in ER Diagram
 
